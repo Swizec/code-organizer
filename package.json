@@ -1,0 +1,13 @@
+{
+  "name": "code-organizer",
+  "version": "0.0.0",
+  "description": "An experiment to see if LLMs can refactor a messy codebase",
+  "main": "index.js",
+  "repository": "https://github.com/Swizec/code-organizer",
+  "author": "Swizec Teller <swizec@swizec.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dependency-tree": "^10.0.9",
+    "prompts": "^2.4.2"
+  }
+}
